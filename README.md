@@ -1,0 +1,2 @@
+# Harvesting-Energy-from-Flexible-Structures-Using-Piezoelectric-Technology
+This study explores energy harvesting through piezoelectric materials in fluttering flags. By embedding piezoelectric elements, mechanical stress from the flutter generates electricity. The research optimizes element placement, configuration, and material properties, analyzing flag geometry. A prototype confirms feasibility and effectiveness.
